@@ -1,0 +1,23 @@
+body{
+    background-color: #430DFF;
+    color: #FFFFFF;
+}
+
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #430d79;
+    font-style: italic;
+}
+
+h4{
+    color: #000000;
+}
+
+a:link{
+    text-decoration: none;
+    color: none;
+}
+
+h5 a:hover{
+    color: #430d79;
+}
